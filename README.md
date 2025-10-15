@@ -43,7 +43,7 @@ The goal: Demonstrate the full data analysis lifecycle from dataset design and c
 
 ---
 
-### 🧑‍💻 My Role
+### My Role
 I completed the project end-to-end:  
 - Designed a realistic simulated dataset for learning and demonstration.  
 - Cleaned and transformed the data for analysis.  
@@ -57,3 +57,4 @@ October 14th, 2025
 
 -
 Ketki 
+
