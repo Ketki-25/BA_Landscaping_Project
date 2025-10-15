@@ -1,0 +1,37 @@
+Job_ID,Date,Service_Type,Client_Name,Crew_Assigned,Hours_Worked,Revenue,Cost,City,Job_Status,Contract_Type,Payment_Mode,Customer_Segment,Month,Profit,Revenue_per_Hour,Profit_Margin,Month2
+1004,10-01-2024,Snow Removal,Parkview HOA,Crew C,4.0,$400.00,$180.00,Longueuil,Completed,Recurring,Invoice,Residential,2024-01,$220.00,100,55.00%,2024-01
+1021,14-02-2024,Snow Removal,Maple Condos,Crew A,3.0,$270.00,$120.00,Montreal,Completed,Recurring,Invoice,Commercial,2024-02,$150.00,90,55.56%,2024-02
+1016,11-11-2024,Fall Cleanup,Maple Condos,Crew A,3.5,$260.00,$130.00,Montreal,Completed,One-Time,Invoice,Commercial,2024-11,$130.00,74.28571429,50.00%,2024-11
+1002,02-12-2024,Snow Removal,Maple Condos,Crew A,3.0,$250.00,$110.00,Montreal,Completed,Recurring,Invoice,Commercial,2024-12,$140.00,83.33333333,56.00%,2024-12
+1030,25-05-2024,Lawn Mowing,Parkview HOA,Crew A,3.0,$250.00,$125.00,Longueuil,Completed,Recurring,Invoice,Residential,2024-05,$125.00,83.33333333,50.00%,2024-05
+1027,18-12-2024,Snow Removal,New Leaf Store,Crew A,2.0,$230.00,$100.00,Montreal,Completed,One-Time,Invoice,Commercial,2024-12,$130.00,115,56.52%,2024-12
+1014,01-10-2024,Fall Cleanup,Parkview HOA,Crew C,3.0,$220.00,$110.00,Longueuil,Completed,Recurring,Invoice,Residential,2024-10,$110.00,73.33333333,50.00%,2024-10
+1017,03-03-2024,Snow Removal,Riverside Motel,Crew B,2.5,$200.00,$90.00,Gatineau,Completed,One-Time,Credit Card,Commercial,2024-03,$110.00,80,55.00%,2024-03
+1026,20-11-2024,Fall Cleanup,Oak Residence,Crew B,2.5,$190.00,$95.00,Montreal,Completed,One-Time,Credit Card,Residential,2024-11,$95.00,76,50.00%,2024-11
+1013,15-09-2024,Fall Cleanup,John Smith,Crew B,2.5,$180.00,$90.00,Montreal,Completed,One-Time,Credit Card,Residential,2024-09,$90.00,72,50.00%,2024-09
+1023,18-03-2024,Snow Removal,Green Cafe,Crew B,2.0,$180.00,$80.00,Laval,Completed,One-Time,Cash,Commercial,2024-03,$100.00,90,55.56%,2024-03
+1024,25-08-2024,Hedge Trimming,Parkview HOA,Crew C,2.0,$170.00,$85.00,Longueuil,Completed,One-Time,Invoice,Residential,2024-08,$85.00,85,50.00%,2024-08
+1008,20-06-2024,Hedge Trimming,Maple Condos,Crew C,2.0,$160.00,$80.00,Montreal,Completed,One-Time,Invoice,Commercial,2024-06,$80.00,80,50.00%,2024-06
+1003,03-12-2024,Snow Removal,Green Cafe,Crew B,1.5,$150.00,$75.00,Laval,Completed,One-Time,Cash,Commercial,2024-12,$75.00,100,50.00%,2024-12
+1015,05-10-2024,Hedge Trimming,Oak Residence,Crew B,2.0,$150.00,$75.00,Montreal,Completed,One-Time,Cash,Residential,2024-10,$75.00,75,50.00%,2024-10
+1028,30-06-2024,Hedge Trimming,Riverside Motel,Crew C,1.5,$145.00,$72.00,Gatineau,Completed,One-Time,Credit Card,Commercial,2024-06,$73.00,96.66666667,50.34%,2024-06
+1009,05-07-2024,Lawn Mowing,Sunny Apartments,Crew A,2.0,$140.00,$70.00,Quebec City,Completed,Recurring,Invoice,Residential,2024-07,$70.00,70,50.00%,2024-07
+1018,15-04-2024,Hedge Trimming,Sunny Apartments,Crew C,1.5,$140.00,$70.00,Quebec City,Completed,One-Time,Credit Card,Residential,2024-04,$70.00,93.33333333,50.00%,2024-04
+1022,20-02-2024,Snow Removal,Oak Residence,Crew C,1.5,$130.00,$60.00,Montreal,Completed,One-Time,Cash,Residential,2024-02,$70.00,86.66666667,53.85%,2024-02
+1001,01-12-2024,Snow Removal,John Smith,Crew A,2.0,$120.00,$60.00,Montreal,Completed,Recurring,Credit Card,Residential,2024-12,$60.00,60,50.00%,2024-12
+1011,12-07-2024,Lawn Mowing,Riverside Motel,Crew C,1.5,$120.00,$60.00,Gatineau,Completed,One-Time,Credit Card,Commercial,2024-07,$60.00,80,50.00%,2024-07
+1029,02-04-2024,Hedge Trimming,John Smith,Crew B,1.0,$120.00,$60.00,Montreal,Completed,One-Time,Cash,Residential,2024-04,$60.00,120,50.00%,2024-04
+1005,12-01-2024,Snow Removal,Anne Lee,Crew B,1.0,$110.00,$55.00,Montreal,Completed,One-Time,Credit Card,Residential,2024-01,$55.00,110,50.00%,2024-01
+1025,01-09-2024,Lawn Mowing,New Leaf Store,Crew A,1.5,$100.00,$50.00,Montreal,Completed,One-Time,Cash,Commercial,2024-09,$50.00,66.66666667,50.00%,2024-09
+1019,10-05-2024,Lawn Mowing,New Leaf Store,Crew A,1.0,$95.00,$48.00,Montreal,Completed,One-Time,Cash,Commercial,2024-05,$47.00,95,49.47%,2024-05
+1006,15-06-2024,Lawn Mowing,John Smith,Crew A,1.0,$90.00,$45.00,Montreal,Completed,Recurring,Credit Card,Residential,2024-06,$45.00,90,50.00%,2024-06
+1012,20-08-2024,Lawn Mowing,Green Cafe,Crew A,1.5,$85.00,$42.00,Laval,Completed,Recurring,Cash,Commercial,2024-08,$43.00,56.66666667,50.59%,2024-08
+1020,12-05-2024,Lawn Mowing,Anne Lee,Crew B,1.0,$85.00,$42.00,Montreal,Completed,Recurring,Credit Card,Residential,2024-05,$43.00,85,50.59%,2024-05
+1007,16-06-2024,Lawn Mowing,Green Cafe,Crew B,1.5,$80.00,$40.00,Laval,Completed,Recurring,Cash,Commercial,2024-06,$40.00,53.33333333,50.00%,2024-06
+1010,10-07-2024,Lawn Mowing,Oak Residence,Crew B,1.0,$70.00,$35.00,Montreal,Completed,One-Time,Cash,Residential,2024-07,$35.00,70,50.00%,2024-07
+30,,,,,,"$4,890.00","$2,354.00",,,,,,,"$2,536.00",,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,30,4890,2354,2536,,,,,,
